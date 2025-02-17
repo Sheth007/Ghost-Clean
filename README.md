@@ -20,5 +20,7 @@ passwords: true,
 localStorage: true,
 cache: true,
 indexedDB: true,
-cookies: true
+cookies: true,
+
+IT CLEARS THIS ALL
 ```
