@@ -1,8 +1,13 @@
 {
-  "manifest_version": 3,
-  "version": "1.0",
-  "short_name": "Clear it",
-  "name": "Clear Everything",
+  "manifest_version": 2,
+  "version": "1.1",
+  "short_name": "Ghost Clean",
+  "name": "Ghost Clean",
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "clear-everything@example.com"
+    }
+  },
   "icons": {
     "512": "img/Logo.png"
   },
@@ -14,7 +19,8 @@
     "activeTab"
   ],
   "background": {
-    "service_worker": "background.js"
+    "scripts": ["background.js"],
+    "persistent": false
   },
   "action": {
     "default_icon": {
