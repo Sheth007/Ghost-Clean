@@ -1,34 +1,69 @@
-## 🚀 Ghost Clean — One-Click Privacy for Shared Devices
+# Ghost Clean
 
-**Tired of leaving your digital footprints behind?**  
-Whether you're browsing on a shared computer, a public machine, or just want to keep your sessions private — **Ghost Clean** has your back.
+> One click. Browser wiped. No traces left behind.
 
-### 🧹 Clean your browser with ONE click:
-- 🗂 Clear history, cache, cookies, downloads, passwords & more
-- 🚫 No tracking, no ads, no funny business — just pure privacy
-- 🖥️ Perfect for shared desktops, school labs, cafes, or workspaces
-- ⚡ Super lightweight & fast
+<br>
 
----
+[![Firefox Add-ons](https://img.shields.io/badge/Firefox-Add--on-FF7139?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://addons.mozilla.org/en-US/firefox/addon/ghost-clean/)
+[![License](https://img.shields.io/badge/License-Private-lightgrey?style=for-the-badge)]()
+[![Version](https://img.shields.io/badge/Version-1.2-blueviolet?style=for-the-badge)]()
 
-### 🔒 Your Data = Your Business  
-Ghost Clean doesn’t collect or store anything. Ever.
+<br>
 
----
+## What is Ghost Clean?
 
-<!-- ### 🙌 Free Forever — Support if You Like It  
-Love Ghost Clean? Buy me a coffee and help keep it alive ☕  
-[Insert donation link here] 
+Ever use a shared computer and forget to clear your browser after? Ghost Clean fixes that.
 
---- -->
+Install it, click the icon, and your browser is completely wiped history, cookies, cache, passwords, downloads, all of it gone in seconds. No digging through settings, no clicking through menus. Just one click and you're invisible.
 
-### Demo:
+In the latest version you get to choose exactly what to clear. Want to keep your passwords but clear everything else? Easy. Want a full wipe? Hit Select All - Ghost Clean clears everything, closes all your tabs, opens a fresh window.
+
+Perfect for shared computers, school labs, office machines, or anyone who just wants to browse without leaving a trail behind.
+
+<br>
+
+## Demo
 
 https://github.com/user-attachments/assets/c74d93ec-adfc-4a73-9c87-16ec98b104ac
 
+<br>
+
+## What it clears
+
+- 🗂 **History** — wipe your browsing trail
+- 🍪 **Cookies** — clear site data and sessions
+- ⚡ **Cache** — free up space instantly
+- 💾 **Local Storage** — remove stored site data
+- 📥 **Downloads** — clear the download list
+- 🔑 **Passwords** — remove saved credentials
+
+<br>
+
+## Features
+
+- 🎛 Toggle exactly what you want to clear
+- ☑️ Select All — wipe everything in one tap
+- 🗂 Auto-closes all tabs and opens a fresh window when Select All is used
+- 🚀 Lightweight — no bloat, no background processes
+- 🔒 No tracking, no analytics, no ads — ever
+- ⚠️ For full privacy, disable Ctrl+Shift+T(Restore recently closed tab shortcut) in Firefox settings after cleaning
+
+<br>
+
+## Install
+
+👉 [Get it on Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/ghost-clean/)
+
+<br>
+
+## Support
+
+Ghost Clean is free and always will be. If it saves you time, consider buying me a coffee ☕
+
+👉 [buymeacoffee.com/udaysheth](https://buymeacoffee.com/udaysheth)
+
+<br>
+
 ---
 
-> 🔒 Ghost Clean – Instantly clear your browser data with one click.  
-> No tracking. No clutter. Just pure privacy.  
-> Perfect for shared devices.  
-> 👉 [[Firefox Add-ons ]](https://addons.mozilla.org/en-US/firefox/addon/ghost-clean/)
+*Built by [Uday Sheth](https://buymeacoffee.com/udaysheth)*
