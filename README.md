@@ -24,7 +24,7 @@ Love Ghost Clean? Buy me a coffee and help keep it alive ☕
 
 ### Demo:
 
-https://github.com/user-attachments/assets/70f5e435-02b1-46bc-983b-f8f04c3b7188
+https://github.com/user-attachments/assets/c74d93ec-adfc-4a73-9c87-16ec98b104ac
 
 ---
 
