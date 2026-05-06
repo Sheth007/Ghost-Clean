@@ -55,15 +55,11 @@ https://github.com/user-attachments/assets/4dcc728d-d39c-44df-a385-2f16169d512d
 
 👉 [Get it on Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/ghost-clean/)
 
-<br>
-
 ## Support
 
 Ghost Clean is free and always will be. If it saves you time, consider buying me a coffee ☕
 
 👉 [buymeacoffee.com/udaysheth](https://buymeacoffee.com/udaysheth)
-
-<br>
 
 ---
 
