@@ -24,7 +24,7 @@ Perfect for shared computers, school labs, office machines, or anyone who just w
 
 ## Demo
 
-https://github.com/user-attachments/assets/c74d93ec-adfc-4a73-9c87-16ec98b104ac
+https://github.com/user-attachments/assets/4dcc728d-d39c-44df-a385-2f16169d512d
 
 <br>
 
