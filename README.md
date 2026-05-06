@@ -64,3 +64,7 @@ Ghost Clean is free and always will be. If it saves you time, consider buying me
 ---
 
 *Built by [Uday Sheth](https://buymeacoffee.com/udaysheth)*
+
+---
+
+![Repo Views](https://visitor-badge.laobi.icu/badge?page_id=Sheth007.Ghost-Clean)
