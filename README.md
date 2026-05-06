@@ -14,9 +14,9 @@
 
 Ever use a shared computer and forget to clear your browser after? Ghost Clean fixes that.
 
-Install it, click the icon, and your browser is completely wiped history, cookies, cache, passwords, downloads, all of it gone in seconds. No digging through settings, no clicking through menus. Just one click and you're invisible.
+Install it, click the icon, and your browser is completely wiped — history, cookies, cache, passwords, downloads, all of it gone in seconds. No digging through settings, no clicking through menus. Just one click and you're invisible.
 
-In the latest version you get to choose exactly what to clear. Want to keep your passwords but clear everything else? Easy. Want a full wipe? Hit Select All - Ghost Clean clears everything, closes all your tabs, opens a fresh window.
+In the latest version you get a live dashboard showing exactly what's stored in your browser — history count, cookie count, download count — before you clean. See what's there, clear what you want, or hit **Clean All** to wipe everything at once. Ghost Clean closes all your tabs and opens a fresh window so nothing is left behind.
 
 Perfect for shared computers, school labs, office machines, or anyone who just wants to browse without leaving a trail behind.
 
@@ -41,12 +41,13 @@ https://github.com/user-attachments/assets/c74d93ec-adfc-4a73-9c87-16ec98b104ac
 
 ## Features
 
-- 🎛 Toggle exactly what you want to clear
-- ☑️ Select All — wipe everything in one tap
-- 🗂 Auto-closes all tabs and opens a fresh window when Select All is used
-- 🚀 Lightweight — no bloat, no background processes
-- 🔒 No tracking, no analytics, no ads — ever
-- ⚠️ For full privacy, disable Ctrl+Shift+T(Restore recently closed tab shortcut) in Firefox settings after cleaning
+- 📊 **Live dashboard** — see your history, cookie and download counts before cleaning
+- 🧹 **Clear individually** — hover any item and hit Clear to remove just that
+- 👁 **View details** — guided instructions to view cache, storage and passwords in Firefox
+- 🗂 **Auto-closes all tabs** and opens a fresh window on full clean
+- 🚀 **Lightweight** — no bloat, no background processes
+- 🔒 **No tracking, no analytics, no ads** — ever
+- ⚠️ For full privacy, disable **Ctrl+Shift+T** (restore recently closed tab) in Firefox settings after cleaning
 
 <br>
 
