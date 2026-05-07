@@ -6,7 +6,7 @@
 
 [![Firefox Add-ons](https://img.shields.io/badge/Firefox-Add--on-FF7139?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://addons.mozilla.org/en-US/firefox/addon/ghost-clean/)
 [![License](https://img.shields.io/badge/License-Private-lightgrey?style=for-the-badge)]()
-[![Version](https://img.shields.io/badge/Version-1.2-blueviolet?style=for-the-badge)]()
+[![Version](https://img.shields.io/badge/Version-1.3-blueviolet?style=for-the-badge)]()
 
 <br>
 
@@ -14,9 +14,9 @@
 
 Ever use a shared computer and forget to clear your browser after? Ghost Clean fixes that.
 
-Install it, click the icon, and your browser is completely wiped — history, cookies, cache, passwords, downloads, all of it gone in seconds. No digging through settings, no clicking through menus. Just one click and you're invisible.
+Install it, click the icon, and your browser is completely wiped - history, cookies, cache, passwords, downloads, all of it gone in seconds. No digging through settings, no clicking through menus. Just one click and you're invisible.
 
-In the latest version you get a live dashboard showing exactly what's stored in your browser — history count, cookie count, download count — before you clean. See what's there, clear what you want, or hit **Clean All** to wipe everything at once. Ghost Clean closes all your tabs and opens a fresh window so nothing is left behind.
+In the latest version you get a live dashboard showing exactly what's stored in your browser - history count, cookie count, download count - before you clean. See what's there, clear what you want, or hit **Clean All** to wipe everything at once. Ghost Clean closes all your tabs and opens a fresh window so nothing is left behind.
 
 Perfect for shared computers, school labs, office machines, or anyone who just wants to browse without leaving a trail behind.
 
@@ -24,7 +24,7 @@ Perfect for shared computers, school labs, office machines, or anyone who just w
 
 ## Demo
 
-https://github.com/user-attachments/assets/4dcc728d-d39c-44df-a385-2f16169d512d
+https://github.com/user-attachments/assets/243545a9-9a32-4c26-bd8f-8b90617d3b24
 
 <br>
 
@@ -46,7 +46,6 @@ https://github.com/user-attachments/assets/4dcc728d-d39c-44df-a385-2f16169d512d
 - 👁 **View details** — guided instructions to view cache, storage and passwords in Firefox
 - 🗂 **Auto-closes all tabs** and opens a fresh window on full clean
 - 🚀 **Lightweight** — no bloat, no background processes
-- 🔒 **No tracking, no analytics, no ads** — ever
 - ⚠️ For full privacy, disable **Ctrl+Shift+T** (restore recently closed tab) in Firefox settings after cleaning
 
 <br>
@@ -63,7 +62,7 @@ Ghost Clean is free and always will be. If it saves you time, consider buying me
 
 ---
 
-*Built by [Uday Sheth](https://buymeacoffee.com/udaysheth)*
+*Built by Uday Sheth*
 
 ---
 
