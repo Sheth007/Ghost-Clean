@@ -1,6 +1,6 @@
 # Ghost Clean
 
-> One click. Browser wiped. No traces left behind.
+> One click. Browser wiped.
 
 <br>
 
@@ -12,13 +12,9 @@
 
 ## What is Ghost Clean?
 
-Ever use a shared computer and forget to clear your browser after? Ghost Clean fixes that.
+Ghost Clean is a Firefox extension that instantly clears browsing data such as history, cookies, cache, downloads, passwords, and more, then opens a fresh new tab after cleanup.
 
-Install it, click the icon, and your browser is completely wiped - history, cookies, cache, passwords, downloads, all of it gone in seconds. No digging through settings, no clicking through menus. Just one click and you're invisible.
-
-In the latest version you get a live dashboard showing exactly what's stored in your browser - history count, cookie count, download count - before you clean. See what's there, clear what you want, or hit **Clean All** to wipe everything at once. Ghost Clean closes all your tabs and opens a fresh window so nothing is left behind.
-
-Perfect for shared computers, school labs, office machines, or anyone who just wants to browse without leaving a trail behind.
+Built for shared computers, school labs, office systems, testing environments, or anyone who wants a faster way to reset Firefox without digging through settings manually.
 
 <br>
 
@@ -30,23 +26,30 @@ https://github.com/user-attachments/assets/243545a9-9a32-4c26-bd8f-8b90617d3b24
 
 ## What it clears
 
-- 🗂 **History** — wipe your browsing trail
-- 🍪 **Cookies** — clear site data and sessions
-- ⚡ **Cache** — free up space instantly
-- 💾 **Local Storage** — remove stored site data
-- 📥 **Downloads** — clear the download list
-- 🔑 **Passwords** — remove saved credentials
+- 🗂 **History** - wipe your browsing trail
+- 🍪 **Cookies** - clear site data and sessions
+- ⚡ **Cache** - free up space instantly
+- 💾 **Local Storage** - remove stored site data
+- 📥 **Downloads** - clear the download list
+- 🔑 **Passwords** - remove saved credentials
 
 <br>
 
 ## Features
 
-- 📊 **Live dashboard** — see your history, cookie and download counts before cleaning
-- 🧹 **Clear individually** — hover any item and hit Clear to remove just that
-- 👁 **View details** — guided instructions to view cache, storage and passwords in Firefox
-- 🗂 **Auto-closes all tabs** and opens a fresh window on full clean
-- 🚀 **Lightweight** — no bloat, no background processes
-- ⚠️ For full privacy, disable **Ctrl+Shift+T** (restore recently closed tab) in Firefox settings after cleaning
+- 📊 **Dashboard** - see history, cookie, and download counts before cleaning
+- 🧹 **Clear individually** - remove specific data types separately
+- 👁 **View details** - quick access to Firefox storage and password locations
+- 🗂 **Automatically closes all tabs** and opens a new tab on full clean
+- 🚀 **Lightweight** and fast
+
+<br>
+
+## Data Collection
+
+Ghost Clean collects installation telemetry including IP address, country, city, region, timezone, browser, platform, language, organization/ISP, and extension version for analytics and usage monitoring.
+
+No browsing history, passwords, cookies, downloads, or website activity are collected.
 
 <br>
 
@@ -56,7 +59,7 @@ https://github.com/user-attachments/assets/243545a9-9a32-4c26-bd8f-8b90617d3b24
 
 ## Support
 
-Ghost Clean is free and always will be. If it saves you time, consider buying me a coffee ☕
+If Ghost Clean helps you out, consider supporting the project ☕
 
 👉 [buymeacoffee.com/udaysheth](https://buymeacoffee.com/udaysheth)
 
